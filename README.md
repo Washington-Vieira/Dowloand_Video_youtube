@@ -40,7 +40,7 @@ Se você quiser rodar o aplicativo diretamente no seu ambiente Python (sem Docke
 
 Clone o repositório:
 
-git clone [SEU_LINK_DO_REPOSITORIO]
+git clone https://github.com/Washington-Vieira/Dowloand_Video_youtube.git
 cd [NOME_DO_REPOSITORIO]
 
 
